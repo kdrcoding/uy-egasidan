@@ -8,15 +8,14 @@ broker commission.
 > Accounts, verification and user listings persist on-device (AsyncStorage);
 > a real backend comes in the next phase.
 
-## Get started
+## Install
 
 ```bash
 npm install
 npm start
 ```
 
-Then open the app in **Expo Go** (Android-first), an Android emulator, or an iOS
-simulator from the Expo CLI output.
+Open in **Expo Go**, an Android emulator, or an iOS simulator.
 
 ## Key features
 
